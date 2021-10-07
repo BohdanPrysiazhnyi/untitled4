@@ -1,2 +1,2 @@
-public class master {
+public class master {asdasdasdasd
 }

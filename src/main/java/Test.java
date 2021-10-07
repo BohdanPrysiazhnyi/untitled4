@@ -1,3 +1,5 @@
 public class Test {
-    sfsdfsdfsdfsdfdgdfgdfd;
+
+    int i =0;
+
 }
